@@ -7,4 +7,4 @@ See realtime_iir_main.py for an example usage. This uses the Qt library for prod
 
 Arduino best used for mechanical measurements due to limited sampling rate of 100Hz, however, the IIR filter can be used with other data acquisiton boards.
 
-[![Alt text]](https://www.youtube.com/watch?v=uSm0Zic1wVA)
+[![Click here for an example usage]](https://www.youtube.com/watch?v=uSm0Zic1wVA)
